@@ -1,0 +1,18 @@
+﻿  Doctor.cpp
+  main.cpp
+f:\4th year\ki 1\oop\bt\assignment oop\baitap\project08_association02\doctor.h(9): error C2065: 'Patient': undeclared identifier
+f:\4th year\ki 1\oop\bt\assignment oop\baitap\project08_association02\doctor.h(9): error C2059: syntax error: '>'
+f:\4th year\ki 1\oop\bt\assignment oop\baitap\project08_association02\doctor.h(9): error C2976: 'std::vector': too few template arguments
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\vector(625): note: see declaration of 'std::vector'
+f:\4th year\ki 1\oop\bt\assignment oop\baitap\project08_association02\doctor.h(16): error C2061: syntax error: identifier 'Patient'
+f:\4th year\ki 1\oop\bt\assignment oop\baitap\project08_association02\main.cpp(11): error C2660: 'Doctor::addPatient': function does not take 1 arguments
+  f:\4th year\ki 1\oop\bt\assignment oop\baitap\project08_association02\doctor.h(16): note: see declaration of 'Doctor::addPatient'
+f:\4th year\ki 1\oop\bt\assignment oop\baitap\project08_association02\main.cpp(12): error C2660: 'Doctor::addPatient': function does not take 1 arguments
+  f:\4th year\ki 1\oop\bt\assignment oop\baitap\project08_association02\doctor.h(16): note: see declaration of 'Doctor::addPatient'
+  Patient.cpp
+f:\4th year\ki 1\oop\bt\assignment oop\baitap\project08_association02\doctor.h(9): error C2065: 'Patient': undeclared identifier
+f:\4th year\ki 1\oop\bt\assignment oop\baitap\project08_association02\doctor.h(9): error C2059: syntax error: '>'
+f:\4th year\ki 1\oop\bt\assignment oop\baitap\project08_association02\doctor.h(9): error C2976: 'std::vector': too few template arguments
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\vector(625): note: see declaration of 'std::vector'
+f:\4th year\ki 1\oop\bt\assignment oop\baitap\project08_association02\doctor.h(16): error C2061: syntax error: identifier 'Patient'
+  Generating Code...

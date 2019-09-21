@@ -1,0 +1,113 @@
+﻿  main.cpp
+f:\4th year\ki 1\oop\bt\assignment oop\baitap\project04_template03\map.cpp(4): error C3857: 'Stack': multiple template parameter lists are not allowed
+f:\4th year\ki 1\oop\bt\assignment oop\baitap\project04_template03\stack.cpp(5): error C2988: unrecognizable template declaration/definition
+f:\4th year\ki 1\oop\bt\assignment oop\baitap\project04_template03\stack.cpp(5): error C2059: syntax error: ')'
+f:\4th year\ki 1\oop\bt\assignment oop\baitap\project04_template03\stack.cpp(6): error C2143: syntax error: missing ';' before '{'
+f:\4th year\ki 1\oop\bt\assignment oop\baitap\project04_template03\stack.cpp(6): error C2447: '{': missing function header (old-style formal list?)
+f:\4th year\ki 1\oop\bt\assignment oop\baitap\project04_template03\stack.cpp(11): error C2523: '<Unknown>::~Stack': destructor tag mismatch
+f:\4th year\ki 1\oop\bt\assignment oop\baitap\project04_template03\stack.cpp(11): error C2988: unrecognizable template declaration/definition
+f:\4th year\ki 1\oop\bt\assignment oop\baitap\project04_template03\stack.cpp(11): error C2059: syntax error: ')'
+f:\4th year\ki 1\oop\bt\assignment oop\baitap\project04_template03\stack.cpp(12): error C2143: syntax error: missing ';' before '{'
+f:\4th year\ki 1\oop\bt\assignment oop\baitap\project04_template03\stack.cpp(12): error C2447: '{': missing function header (old-style formal list?)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\vcruntime.h(280): error C2065: 'uintptr_t': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\vcruntime.h(280): error C2146: syntax error: missing ')' before identifier '_StackCookie'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\vcruntime.h(288): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\vcruntime.h(288): error C2146: syntax error: missing ';' before identifier '__security_cookie'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\vcruntime.h(296): warning C4161: #pragma pack(pop...): more pops than pushes
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt.h(250): error C2061: syntax error: identifier 'uintptr_t'
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt.h(262): error C2061: syntax error: identifier 'uintptr_t'
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\crtdbg.h(631): error C2061: syntax error: identifier 'va_list'
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\crtdbg.h(641): error C2061: syntax error: identifier 'va_list'
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stddef.h(53): error C2143: syntax error: missing ';' before '__cdecl'
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stddef.h(53): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stddef.h(53): error C2370: 'uintptr_t': redefinition; different storage class
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\vcruntime.h(288): note: see declaration of 'uintptr_t'
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdlib.h(164): error C2061: syntax error: identifier 'uintptr_t'
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(274): error C2061: syntax error: identifier 'va_list'
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(283): error C2061: syntax error: identifier 'va_list'
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(292): error C2061: syntax error: identifier 'va_list'
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(300): error C2061: syntax error: identifier 'va_list'
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(306): error C2065: '_ArgList': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(314): error C2061: syntax error: identifier 'va_list'
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(320): error C2065: '_ArgList': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(329): error C2061: syntax error: identifier 'va_list'
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(335): error C2065: '_ArgList': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(345): error C2061: syntax error: identifier 'va_list'
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(351): error C2065: '_ArgList': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(362): error C2061: syntax error: identifier 'va_list'
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(368): error C2065: '_ArgList': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(376): error C2061: syntax error: identifier 'va_list'
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(382): error C2065: '_ArgList': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(390): error C2061: syntax error: identifier 'va_list'
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(396): error C2065: '_ArgList': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(403): error C2061: syntax error: identifier 'va_list'
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(409): error C2065: '_ArgList': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(417): error C2061: syntax error: identifier 'va_list'
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(423): error C2065: '_ArgList': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(432): error C2061: syntax error: identifier 'va_list'
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(438): error C2065: '_ArgList': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(448): error C2061: syntax error: identifier 'va_list'
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(454): error C2065: '_ArgList': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(461): error C2061: syntax error: identifier 'va_list'
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(467): error C2065: '_ArgList': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(482): error C2065: 'va_list': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(482): error C2146: syntax error: missing ';' before identifier '_ArgList'
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(482): error C2065: '_ArgList': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(483): error C2065: '_ArgList': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(483): error C2065: 'va_list': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(484): error C2065: '_ArgList': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(485): error C2065: '_ArgList': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(485): error C2065: 'va_list': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(485): error C2059: syntax error: 'constant'
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(500): error C2065: 'va_list': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(500): error C2146: syntax error: missing ';' before identifier '_ArgList'
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(500): error C2065: '_ArgList': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(501): error C2065: '_ArgList': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(501): error C2065: 'va_list': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(502): error C2065: '_ArgList': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(503): error C2065: '_ArgList': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(503): error C2065: 'va_list': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(503): error C2059: syntax error: 'constant'
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(519): error C2065: 'va_list': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(519): error C2146: syntax error: missing ';' before identifier '_ArgList'
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(519): error C2065: '_ArgList': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(520): error C2065: '_ArgList': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(520): error C2065: 'va_list': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(521): error C2065: '_ArgList': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(522): error C2065: '_ArgList': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(522): error C2065: 'va_list': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(522): error C2059: syntax error: 'constant'
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(539): error C2065: 'va_list': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(539): error C2146: syntax error: missing ';' before identifier '_ArgList'
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(539): error C2065: '_ArgList': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(540): error C2065: '_ArgList': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(540): error C2065: 'va_list': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(541): error C2065: '_ArgList': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(542): error C2065: '_ArgList': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(542): error C2065: 'va_list': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(542): error C2059: syntax error: 'constant'
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(560): error C2065: 'va_list': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(560): error C2146: syntax error: missing ';' before identifier '_ArgList'
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(560): error C2065: '_ArgList': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(561): error C2065: '_ArgList': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(561): error C2065: 'va_list': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(562): error C2065: '_ArgList': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(563): error C2065: '_ArgList': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(563): error C2065: 'va_list': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(563): error C2059: syntax error: 'constant'
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(578): error C2065: 'va_list': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(578): error C2146: syntax error: missing ';' before identifier '_ArgList'
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(578): error C2065: '_ArgList': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(579): error C2065: '_ArgList': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(579): error C2065: 'va_list': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(580): error C2065: '_ArgList': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(581): error C2065: '_ArgList': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(581): error C2065: 'va_list': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(581): error C2059: syntax error: 'constant'
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(581): fatal error C1003: error count exceeds 100; stopping compilation
+  Map.cpp
+f:\4th year\ki 1\oop\bt\assignment oop\baitap\project04_template03\map.cpp(18): fatal error C1004: unexpected end-of-file found
+  Stack.cpp
+f:\4th year\ki 1\oop\bt\assignment oop\baitap\project04_template03\stack.cpp(7): error C3861: 'cout': identifier not found
+f:\4th year\ki 1\oop\bt\assignment oop\baitap\project04_template03\stack.cpp(7): error C3861: 'endl': identifier not found
+  Generating Code...

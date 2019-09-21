@@ -1,0 +1,14 @@
+﻿  main.cpp
+f:\4th year\ki 1\oop\bt\assignment oop\baitap\project03_oop\main.cpp(31): error C2593: 'operator +' is ambiguous
+  f:\4th year\ki 1\oop\bt\assignment oop\baitap\project03_oop\point.h(17): note: could be 'Point Point::operator +(Point &)'
+  f:\4th year\ki 1\oop\bt\assignment oop\baitap\project03_oop\main.cpp(9): note: or       'Point operator +(Point &,Point &)'
+  f:\4th year\ki 1\oop\bt\assignment oop\baitap\project03_oop\main.cpp(31): note: while trying to match the argument list '(T, T)'
+          with
+          [
+              T=Point
+          ]
+  f:\4th year\ki 1\oop\bt\assignment oop\baitap\project03_oop\main.cpp(71): note: see reference to function template instantiation 'T add<Point>(T &,T &)' being compiled
+          with
+          [
+              T=Point
+          ]

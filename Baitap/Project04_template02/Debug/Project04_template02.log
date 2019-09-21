@@ -1,0 +1,5 @@
+﻿  main.cpp
+f:\4th year\ki 1\oop\bt\assignment oop\baitap\project04_template02\vector.cpp(8): error C2512: 'Vector<int>': no appropriate default constructor available
+  f:\4th year\ki 1\oop\bt\assignment oop\baitap\project04_template02\vector.cpp(6): note: while compiling class template member function 'Vector<int>::Vector(int)'
+  f:\4th year\ki 1\oop\bt\assignment oop\baitap\project04_template02\main.cpp(5): note: see reference to function template instantiation 'Vector<int>::Vector(int)' being compiled
+  f:\4th year\ki 1\oop\bt\assignment oop\baitap\project04_template02\main.cpp(5): note: see reference to class template instantiation 'Vector<int>' being compiled

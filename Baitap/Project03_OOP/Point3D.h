@@ -1,0 +1,13 @@
+#pragma once
+#include"Point2D.h"
+class Point3D : public Point2D
+{
+	int zVal;
+public:
+	Point3D(void);
+	Point3D(int, int, int);
+	Point3D(const Point3D&);
+	~Point3D(void);
+	void virtual show();
+	void Print();
+};

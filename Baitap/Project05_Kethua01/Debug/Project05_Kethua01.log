@@ -1,0 +1,6 @@
+﻿  LopSinhHoat.cpp
+f:\4th year\ki 1\oop\bt\assignment oop\baitap\project05_kethua01\sinhvien.h(12): error C3646: 'lopSH': unknown override specifier
+f:\4th year\ki 1\oop\bt\assignment oop\baitap\project05_kethua01\sinhvien.h(12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  SinhVien.cpp
+  main.cpp
+  Generating Code...
